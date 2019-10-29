@@ -17,6 +17,7 @@ mvn package
 Définir la variable JAVA_HOME contenant le JDK à utiliser
 
 - Cas 1 avec un JDK n'implémentant pas la JEP 358 (Exemple JDK 11)
+
 [source,bash]
 ----
 export JAVA_HOME=/usr/lib/jvm/jdk-11.0.2+9/
@@ -41,5 +42,5 @@ mvn test
 Copyright (C) 2019 Lilian BENOIT.
 Free use of this software is granted under the terms of the Apache v2 License.
 
-For the full text of the license, see the <<../../LICENSE.txt,LICENSE>> file.
+For the full text of the license, see the LICENSE.txt file.
 
