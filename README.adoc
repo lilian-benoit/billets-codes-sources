@@ -2,7 +2,7 @@
 
 image:https://img.shields.io/badge/licence-APACHE--2-blue.svg[APACHE v2 License, link=#copyright]
 
-Ce projet contient les exemples utilisées sur le site des mes billets (http://www.lilian-benoit.fr)
+Ce projet contient les exemples utilisées sur le site des mes billets (https://www.lilian-benoit.fr)
 
 
 
@@ -22,5 +22,5 @@ Chaque projet contient son README.adoc avec les informations nécessaires pour f
 Copyright (C) 2019 Lilian BENOIT.
 Free use of this software is granted under the terms of the Apache v2 License.
 
-For the full text of the license, see the <<LICENSE.txt#,LICENSE>> file.
+For the full text of the license, see the <<LICENSE.txt,LICENSE>> file.
 

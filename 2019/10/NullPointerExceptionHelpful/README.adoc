@@ -2,7 +2,7 @@
 
 image:https://img.shields.io/badge/licence-APACHE--2-blue.svg[APACHE v2 License, link=#copyright]
 
-Ce projet contient les exemples utilisées sur le site des mes billets (http://www.lilian-benoit.fr)
+Ce projet contient les exemples utilisées sur le site des mes billets (https://www.lilian-benoit.fr)
 
 
 == Installation
@@ -16,23 +16,22 @@ mvn package
 
 Définir la variable JAVA_HOME contenant le JDK à utiliser
 
-- Cas 1 avec un JDK n'implémentant pas la JEP 358
-
+- Cas 1 avec un JDK n'implémentant pas la JEP 358 (Exemple JDK 11)
 [source,bash]
 ----
 export JAVA_HOME=/usr/lib/jvm/jdk-11.0.2+9/
 
-mvn package 
+mvn test 
 ----
 
 
-- Cas 2 avec un JDK implémentant la JEP 358 (Utilisation du prototype de mars 2019)
+- Cas 2 avec un JDK implémentant la JEP 358 (Exemple Prototype de mars 2019)
 
 [source,bash]
 ----
 export JAVA_HOME=/opt/jdk/sandbox/build/linux-x86_64-server-release/jdk/
 
-mvn package 
+mvn test 
 ----
 
 
@@ -42,5 +41,5 @@ mvn package
 Copyright (C) 2019 Lilian BENOIT.
 Free use of this software is granted under the terms of the Apache v2 License.
 
-For the full text of the license, see the <<LICENSE.txt#,LICENSE>> file.
+For the full text of the license, see the <<../../LICENSE.txt,LICENSE>> file.
 
