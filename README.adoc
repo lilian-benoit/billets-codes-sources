@@ -14,12 +14,16 @@ Chaque projet contient son README.adoc avec les informations nécessaires pour f
 
 == Année 2019
 
-- NullPointerExceptionHelpful (https://www.lilian-benoit.fr/blog/2019/10/jep358-helpful-NullPointerExceptions.html) 
+- Quarkus et la Dev UI (https://www.lilian-benoit.fr/2021/02/Quarkus-et-devUI.html) 
+
+== Année 2019
+
+- NullPointerExceptionHelpful (https://www.lilian-benoit.fr/2019/10/jep358-helpful-NullPointerExceptions.html) 
 
 
 == Copyright
 
-Copyright (C) 2019 Lilian BENOIT.
+Copyright (C) 2019-2021 Lilian BENOIT.
 Free use of this software is granted under the terms of the Apache v2 License.
 
 For the full text of the license, see the LICENSE.txt file.
